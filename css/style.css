@@ -119,6 +119,8 @@ body {
 
 .features-title {
   font-weight: var(--title-font-weight);
+  font-size: 14px;
+  line-height: 1.14;
   text-transform: uppercase;
 
   color: var(--head-text-color);
